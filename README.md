@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm a Software Craftsman based in Canada I have extensive and diverse experience in Cloud Platforms, Backend Services, Mobile domain, Creating SDKs, and sometimes working on Frontend...</h3>
+<h3 align="left">Hi 👋, I'm a Software Craftsman based in Canada. I have extensive and diverse experience in Cloud Platforms, Backend Services, Mobile domain, Creating SDKs, and sometimes working on Frontend...</h3>
 &emsp;
 
 - 🔭 I’m currently working on creating mini blockchain in Go, all-in-one load-balancer library and few other stuff.
